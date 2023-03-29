@@ -13,4 +13,4 @@ falling through any of the holes ("H").
 
 This task was solved through tabular reinforcement learning (Q-learning). The AI learns during the training stage using
 an epsilon greedy strategy to balance exploring and exploitation of the environment. After training the model is is saved and
-can be used to win the game.
+can be used to win the game. 
