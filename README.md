@@ -3,10 +3,10 @@ Implementation of the reinforcement learning algorithm Q-learning. Solving the g
 
 
 Frozen Lake is a 2D-game consisting of a game board such as: 
-["S", "F", "F"],
-["F", "H", "F"],
-["F", "H", "F"],
-["F", "F", "G"]
+&nbsp; ["S", "F", "F"],
+&nbsp;["F", "H", "F"],
+&nbsp;["F", "H", "F"],
+&nbsp;["F", "F", "G"]
 
 The ultimate goal of the game is for player ("S") to reach the goal ("G") walking through frozen areas ("F") without
 falling through any of the holes ("H"). 
