@@ -1,5 +1,5 @@
 # Q-learning_FL
-Implementation of the reinforcement learning algorithm Q-learning. Solving the game Frozen Lake.
+Implementation of the reinforcement learning algorithm using Q-learning. Solving the game Frozen Lake.
 
 
 Frozen Lake is a 2D-game consisting of a game board such as: 
